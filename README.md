@@ -32,7 +32,6 @@ The RBF of hidden neuron as gaussian function
 
 ## ALGORIHM:
 
-/** Write the Algorithm in steps**/
 1.Import the necessary libraries of python.
 
 2.After that, create a function named as gaussian_rbf to find the exponential form for the vector norm
@@ -186,10 +185,13 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 ```
 
 ## OUTPUT :
-    ![download1](https://github.com/raghulS2004/Experiment-5-Implementation-of-XOR-using-RBF/assets/122069938/f018c779-b8eb-400b-93bc-839d783ea932)
-    
-    ![download2](https://github.com/raghulS2004/Experiment-5-Implementation-of-XOR-using-RBF/assets/122069938/77a234b1-296d-4b3c-abee-4cd4b0a6f651)
+  ![image](https://github.com/raghulS2004/Experiment-5-Implementation-of-XOR-using-RBF/assets/122069938/222eab90-46a5-4137-bc5e-5c9b5e0b8bb4)
 
+
+![image](https://github.com/raghulS2004/Experiment-5-Implementation-of-XOR-using-RBF/assets/122069938/cf8c4e99-7ab4-42b1-a265-912419756679)
+
+  
+ 
 
 
 ## RESULT:
